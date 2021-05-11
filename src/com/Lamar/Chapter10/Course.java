@@ -38,6 +38,11 @@ public class Course {
         return numberOfStudents;
     }
 
+//    public void setCourseName(String courseName) {
+//        this.courseName = courseName;
+//    }
+
     public void dropStudent(String Student) {
+//        complete this at exercise 10-9
     }
 }
